@@ -7,3 +7,14 @@ h1 {
     background-color:antiquewhite;
 }
 
+h2 {
+    text-align: center;
+}
+
+.welcome-cat {
+    height: 200px;
+    width: 300px;
+    display: grid;
+    object-fit: contain;
+    place-items: center;
+}

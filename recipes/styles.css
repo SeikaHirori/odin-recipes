@@ -12,3 +12,15 @@ h1 {
     place-items: center;
 
 }
+
+h2 {
+    background-color:beige;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.work-in-progress {
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
