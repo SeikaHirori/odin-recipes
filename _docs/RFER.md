@@ -1,0 +1,2 @@
+- RFER #1 | Centering image
+    - https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/#howtocenteranimagewithflexbox:~:text=to%20center.-,How%20to%20Center%20an%20Image%20with%20CSS%20Grid,-CSS%20Grid%20works

@@ -1,0 +1,14 @@
+h1 {
+    color: black;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+.starting-image {
+    /* RFER #1 */
+
+    display: grid;
+    place-items: center;
+
+}
