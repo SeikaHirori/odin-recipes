@@ -1,7 +1,14 @@
+body {
+    margin: 25px;
+    padding: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 h1 {
     color: black;
     background-color: antiquewhite;
     text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 
@@ -13,8 +20,9 @@ h1 {
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    /* object-fit: cover;
-    object-position: center; */
+    margin-top: 10px;
+    margin-bottom: 20px;
+
 }
 
 h2 {
@@ -27,4 +35,25 @@ p.work-in-progress {
     color: black;
     font-weight: bolder;
     text-align: center;
+    margin-bottom: 20px;
+}
+
+.image-info {
+    text-align: center;
+}
+
+.image-caption {
+    background-color: lightgoldenrodyellow;
+    display: block;
+    text-align: inherit;
+    margin-bottom: 5px;
+    
+}
+
+.image-source-bold {
+    font-weight: bold;
+}
+
+.disclaimer {
+    font-weight: bold;
 }
