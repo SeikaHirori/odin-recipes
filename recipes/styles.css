@@ -6,11 +6,15 @@ h1 {
 
 
 .starting-image {
+
     /* RFER #1 */
-
-    display: grid;
-    place-items: center;
-
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* object-fit: cover;
+    object-position: center; */
 }
 
 h2 {
